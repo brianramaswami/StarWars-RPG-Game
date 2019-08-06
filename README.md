@@ -1,2 +1,2 @@
 # StarWars-RPG-Game
-This project demonstrates Jquery fundamentals and rendering HTML elements via Javascript
+This project demonstrates JQuery fundamentals and rendering HTML elements via Javascript!
